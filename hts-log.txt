@@ -1,0 +1,104 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Sep 2019 11:02:25 at http://localhost/deptsite/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/deptsite/wordpress/ -O1 "C:\Websites\deptsite\csedeptsite\deptsitecse" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:10:21	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-content/themes/free-education/assets/css/owl.video.play.png (from localhost/deptsite/wordpress/wp-content/themes/free-education/assets/css/owl.carousel.min.css?ver=4.7.0)
+11:10:21	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-content/themes/free-education/images/enroll-bg.jpg (from localhost/deptsite/wordpress/wp-content/themes/free-education/style.css?ver=5.2.3)
+11:10:21	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-content/themes/free-education/images/library.jpg (from localhost/deptsite/wordpress/wp-content/themes/free-education/style.css?ver=5.2.3)
+11:10:21	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-content/themes/free-education/images/cta-bg.jpg (from localhost/deptsite/wordpress/wp-content/themes/free-education/style.css?ver=5.2.3)
+11:10:21	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-content/themes/free-education/images/error-bg.jpg (from localhost/deptsite/wordpress/wp-content/themes/free-education/style.css?ver=5.2.3)
+11:10:22	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=376
+11:10:22	Warning: 	File has moved from localhost/deptsite/wordpress/?p=376 to http://localhost/deptsite/wordpress/?page_id=376
+11:10:32	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=378
+11:10:32	Warning: 	File has moved from localhost/deptsite/wordpress/?p=378 to http://localhost/deptsite/wordpress/?page_id=378
+11:10:33	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=380
+11:10:33	Warning: 	File has moved from localhost/deptsite/wordpress/?p=380 to http://localhost/deptsite/wordpress/?page_id=380
+11:10:33	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=381
+11:10:33	Warning: 	File has moved from localhost/deptsite/wordpress/?p=381 to http://localhost/deptsite/wordpress/?page_id=381
+11:10:33	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=377
+11:10:33	Warning: 	File has moved from localhost/deptsite/wordpress/?p=377 to http://localhost/deptsite/wordpress/?page_id=377
+11:10:33	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=383
+11:10:33	Warning: 	File has moved from localhost/deptsite/wordpress/?p=383 to http://localhost/deptsite/wordpress/?page_id=383
+11:10:43	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=385
+11:10:43	Warning: 	File has moved from localhost/deptsite/wordpress/?p=385 to http://localhost/deptsite/wordpress/?page_id=385
+11:10:43	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=386
+11:10:43	Warning: 	File has moved from localhost/deptsite/wordpress/?p=386 to http://localhost/deptsite/wordpress/?page_id=386
+11:10:43	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=387
+11:10:43	Warning: 	File has moved from localhost/deptsite/wordpress/?p=387 to http://localhost/deptsite/wordpress/?page_id=387
+11:10:43	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=389
+11:10:43	Warning: 	File has moved from localhost/deptsite/wordpress/?p=389 to http://localhost/deptsite/wordpress/?page_id=389
+11:10:43	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=738
+11:10:43	Warning: 	File has moved from localhost/deptsite/wordpress/?p=738 to http://localhost/deptsite/wordpress/?page_id=738
+11:10:50	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=393
+11:10:50	Warning: 	File has moved from localhost/deptsite/wordpress/?p=393 to http://localhost/deptsite/wordpress/?page_id=393
+11:10:51	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=394
+11:10:51	Warning: 	File has moved from localhost/deptsite/wordpress/?p=394 to http://localhost/deptsite/wordpress/?page_id=394
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=395
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=395 to http://localhost/deptsite/wordpress/?page_id=395
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=396
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=396 to http://localhost/deptsite/wordpress/?page_id=396
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=397
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=397 to http://localhost/deptsite/wordpress/?page_id=397
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=398
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=398 to http://localhost/deptsite/wordpress/?page_id=398
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=400
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=400 to http://localhost/deptsite/wordpress/?page_id=400
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=401
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=401 to http://localhost/deptsite/wordpress/?page_id=401
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=402
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=402 to http://localhost/deptsite/wordpress/?page_id=402
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=403
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=403 to http://localhost/deptsite/wordpress/?page_id=403
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=404
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=404 to http://localhost/deptsite/wordpress/?page_id=404
+11:11:00	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=411
+11:11:00	Warning: 	File has moved from localhost/deptsite/wordpress/?p=411 to http://localhost/deptsite/wordpress/?page_id=411
+11:11:09	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=406
+11:11:09	Warning: 	File has moved from localhost/deptsite/wordpress/?p=406 to http://localhost/deptsite/wordpress/?page_id=406
+11:11:09	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=408
+11:11:09	Warning: 	File has moved from localhost/deptsite/wordpress/?p=408 to http://localhost/deptsite/wordpress/?page_id=408
+11:11:09	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=410
+11:11:09	Warning: 	File has moved from localhost/deptsite/wordpress/?p=410 to http://localhost/deptsite/wordpress/?page_id=410
+11:11:09	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=295
+11:11:09	Warning: 	File has moved from localhost/deptsite/wordpress/?p=295 to http://localhost/deptsite/wordpress/?event=best-student-award-2018
+11:11:29	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=2
+11:11:29	Warning: 	File has moved from localhost/deptsite/wordpress/?p=2 to http://localhost/deptsite/wordpress/?page_id=2
+11:11:29	Error: 	"Method Not Allowed" (405) at link localhost/deptsite/wordpress/xmlrpc.php (from localhost/deptsite/wordpress/?page_id=2)
+11:11:29	Warning: 	Found for localhost/deptsite/wordpress/wp-admin/
+11:11:29	Warning: 	File has moved from localhost/deptsite/wordpress/wp-admin/ to http://localhost/deptsite/wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fdeptsite%2Fwordpress%2Fwp-admin%2F&reauth=1
+11:11:45	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=382
+11:11:45	Warning: 	File has moved from localhost/deptsite/wordpress/?p=382 to http://localhost/deptsite/wordpress/?page_id=382
+11:11:45	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=736
+11:11:45	Warning: 	File has moved from localhost/deptsite/wordpress/?p=736 to http://localhost/deptsite/wordpress/?page_id=736
+11:11:54	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=407
+11:11:54	Warning: 	File has moved from localhost/deptsite/wordpress/?p=407 to http://localhost/deptsite/wordpress/?page_id=407
+11:11:54	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=663
+11:11:54	Warning: 	File has moved from localhost/deptsite/wordpress/?p=663 to http://localhost/deptsite/wordpress/?page_id=663
+11:13:01	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=369
+11:13:01	Warning: 	File has moved from localhost/deptsite/wordpress/?p=369 to http://localhost/deptsite/wordpress/?page_id=369
+11:13:01	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=375
+11:13:01	Warning: 	File has moved from localhost/deptsite/wordpress/?p=375 to http://localhost/deptsite/wordpress/?page_id=375
+11:13:01	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=712
+11:13:01	Warning: 	File has moved from localhost/deptsite/wordpress/?p=712 to http://localhost/deptsite/wordpress/?page_id=712
+11:13:14	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=665
+11:13:14	Warning: 	File has moved from localhost/deptsite/wordpress/?p=665 to http://localhost/deptsite/wordpress/?page_id=665
+11:13:40	Error: 	"Not Found" (404) at link localhost/deptsite/wordpress/wp-admin/&reauth=1 (from localhost/deptsite/wordpress/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fdeptsite%2Fwordpress%2Fwp-admin%2F%26reauth=1)
+11:13:41	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=708
+11:13:41	Warning: 	File has moved from localhost/deptsite/wordpress/?p=708 to http://localhost/deptsite/wordpress/?page_id=708
+11:13:52	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=668
+11:13:52	Warning: 	File has moved from localhost/deptsite/wordpress/?p=668 to http://localhost/deptsite/wordpress/?page_id=668
+11:14:05	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=704
+11:14:05	Warning: 	File has moved from localhost/deptsite/wordpress/?p=704 to http://localhost/deptsite/wordpress/?page_id=704
+11:14:15	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=670
+11:14:15	Warning: 	File has moved from localhost/deptsite/wordpress/?p=670 to http://localhost/deptsite/wordpress/?page_id=670
+11:14:27	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=674
+11:14:27	Warning: 	File has moved from localhost/deptsite/wordpress/?p=674 to http://localhost/deptsite/wordpress/?page_id=674
+11:14:27	Warning: 	Moved Permanently for localhost/deptsite/wordpress/?p=672
+11:14:27	Warning: 	File has moved from localhost/deptsite/wordpress/?p=672 to http://localhost/deptsite/wordpress/?page_id=672
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 6 seconds : 926 links scanned, 875 files written (21190697 bytes overall) [21513126 bytes received at 29632 bytes/sec], 5.9 requests per connection
+(7 errors, 86 warnings, 0 messages)
